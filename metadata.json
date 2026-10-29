@@ -1,0 +1,6 @@
+{
+  "name": "Crimson Cinema — Luxury Movie Ticket Booking & Box Office",
+  "description": "Experience luxury cinema ticket booking with interactive seating maps, showtimes, featured trailers, customer booking passes, and a full admin theater management dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

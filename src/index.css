@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --font-cinematic: 'Cinzel', serif;
+    --font-body: 'Plus Jakarta Sans', sans-serif;
+  }
+}
+
+.font-cinematic {
+  font-family: 'Cinzel', Georgia, serif;
+}
+
+/* Custom scrollbars for dark cinema aesthetic */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #09090b;
+}
+::-webkit-scrollbar-thumb {
+  background: #27272a;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #9f1239;
+}
